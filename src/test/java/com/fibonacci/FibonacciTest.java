@@ -1,9 +1,7 @@
-package tests;
+package com.fibonacci;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import main.Fibonacci;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
