@@ -1,0 +1,4 @@
+Previamente se habia usado la anotacion @BeforeEach, la cual ahorra muchas lineas de codigo evitando repetir el setup en cada test. ya que ejecuta el metodo con la anotacion antes de cada test
+Ademas, se ha añadido la anotacion @Tag, que pone una etiqueta a un metodo o una clase y permite filtrar por etiquetas.
+
+En cuanto a asertos, se ha usado el assertArrayEquals, que comprueba que el contenido de ambos arrays (esperado y real) sea el mismo
